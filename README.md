@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rmzq
-- 👀 I’m interested in Back-End Developement
+- 👀 I’m interested in Back-End Development
 - 🌱 I’m currently learning Python Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
