@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rmzq
 - 👀 I’m interested in Back-End Development
-- 🌱 I’m currently learning Python Django
+- 🌱 I’m currently learning Django, FastAPI, and ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
