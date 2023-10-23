@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rmzq
-- 👀 I’m interested in Back-End Development
-- 🌱 I’m currently learning Django, FastAPI, and ReactJS
+- 👋 Hi, I’m Romzi Qutbi
+- 👀 I’m interested in Web Development, Deep Learning, and Blockchain Technology
+- 🌱 I’m currently learning Django, FastAPI, Laravel, and ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
