@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Romzi Qutbi
-- 👀 I’m interested in Web Development, Deep Learning, and Blockchain Technology
+- 👀 I’m interested in Web Development, especially in Backend
 - 🌱 I’m currently learning Django, Go, FastAPI, Laravel, and ReactJS
 - 📫 You can reach me [here](mailto:romziqutbi@gmail.com)
 
